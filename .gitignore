@@ -1,0 +1,18 @@
+AI_GENERATED_DATA/
+Annotations/
+Assets/
+coco.py
+datasets/
+Demo - COTS Dataset - Multiple Objects.ipynb
+Demo - COTS Dataset - Single Object.ipynb
+Environment/
+Evaluation/
+LICENSE
+predicted_masks/
+presentation.pdf
+README.md
+runs/
+tmp/
+toTrainOn/
+weld_processing/
+
